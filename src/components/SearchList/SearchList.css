@@ -1,0 +1,18 @@
+.search-list {
+  max-width: 1200px;
+  margin: 40px auto 0;
+}
+.card-img {
+  height: 90px;
+  width: 90px;
+  object-fit: cover;
+}
+.card__logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card__logo img {
+  height: 30px;
+  width: 30px;
+}
